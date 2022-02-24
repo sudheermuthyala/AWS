@@ -16,3 +16,5 @@
 - Class C network contains 28 Hosts   (2 power 8)
 
 ![](2022-02-24-10-41-43.png)
+
+## HOw to connect 
