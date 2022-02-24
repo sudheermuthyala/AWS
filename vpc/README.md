@@ -11,3 +11,4 @@
 - Class B network contains 216 Hosts, (2 power 16)
 - Class C network contains 28 Hosts   (2 power 8)
 
+![](2022-02-24-10-41-43.png)
