@@ -2,7 +2,8 @@
 [Architecture of VPC](https://www.javatpoint.com/aws-vpc)
 ## Create a new VPC
 - **step-1:** Create vpc
-- **step-2:** 
+- **step-2:** create a subnet 
+
 
 
 ## Classless Inter Domain Routing (CIDR) Block
