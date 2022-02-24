@@ -3,7 +3,7 @@
 ## Create a new VPC
 - **step-1:** Create vpc
 - **step-2:** create a subnet 
-- **step-3:** create a Internet Gateway
+- **step-3:** create a Internet Gateway 
 - **step-4:** create 
 
 
