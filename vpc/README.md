@@ -17,4 +17,6 @@
 
 ![](2022-02-24-10-41-43.png)
 
-## HOw to connect 
+## HOw to connect vpn servers
+- using vpn software 
+- 
