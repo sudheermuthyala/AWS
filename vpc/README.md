@@ -8,6 +8,6 @@
 ## Classless Inter Domain Routing (CIDR) Block
 ```t
   Class A network contains 224 Hosts, (2 power 24)
-  Class B network contains 216 Hosts,
-  Class C network contains 28 Hosts 
+  Class B network contains 216 Hosts, (2 power 24)
+  Class C network contains 28 Hosts    (2 power 24)
 ```
