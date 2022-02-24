@@ -19,4 +19,4 @@
 
 ## HOw to connect vpn servers
 - using vpn software 
-- taking service from 
+- taking service from aws Direct
