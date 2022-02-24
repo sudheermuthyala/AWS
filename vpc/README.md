@@ -21,3 +21,4 @@
 - using vpn software 
 - taking service from aws Direct Connect
 - Bastion Server
+
