@@ -19,4 +19,4 @@ In this process, the number of servers is increased and not the individual capac
 1. Launch Configuration 
 - In launch configuration we will define All this AMI,Keypair EC2 family,Sg-group
 2. Autoscaling Group
-- 
+- In Autoscaling group 
