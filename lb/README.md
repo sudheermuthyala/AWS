@@ -9,7 +9,6 @@ Application Load Balancer
 - we ca do path based routing in ALB 
 - we can Add/Edit the subnets 
 
-
 ## What is the difference between ALB/NLB and Autoscaling
 - In ALB/NLB  we hav an idea of the how much traffic is comming 
 - In Autoscaling we dont Konw how much traffice is comming 
