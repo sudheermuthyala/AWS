@@ -15,3 +15,6 @@ Horizontal Scaling is also called the Scale-out approach.
 
 In this process, the number of servers is increased and not the individual capacity of the server. This is done with the help of a Load Balancer which basically routes the user requests to different servers according to the availability of the server. Thereby, increasing the overall performance of the system. In this way, the entire process is distributed among all servers rather than just depending on a single server. 
 ```
+
+1. Launch Configuration 
+2. Autoscaling Group
