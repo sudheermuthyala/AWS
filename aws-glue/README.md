@@ -46,7 +46,7 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 **Classifier:** 
 - The classifier determins the schema of data. AWS-Glue provides Classifier common file types such csv json xml and soon 
 - It also provides classifiers for common relational database management systems using the JDBC connection
-- You can write your own 
+- You can write your own classifier By using a grock parten
 
 
 
