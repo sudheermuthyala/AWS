@@ -27,7 +27,7 @@ CostEffective
     - You pay only for the resources that you use while your jobs are running 
 More Power:
     - AWS-Glue Automate the much of the efort in building,maintaining,and running ETL jobs.
-    - It crops your data sources identifyesdatsa formate  as suggest schema
+    - It crops your data sources identifyesdatsa formate  as suggest schemas 
 
 ![](2022-08-17-11-09-49.png)
 
