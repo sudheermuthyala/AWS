@@ -48,6 +48,7 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 - It also provides classifiers for common relational database management systems using the JDBC connection
 - You can write your own classifier By using a grock parten or by specifinng rote an in xml doc
 **Connection**
+- Connection containg the properties 
 
 
 
