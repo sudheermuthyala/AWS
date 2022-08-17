@@ -10,3 +10,7 @@ what is AWS GLUE ?
 ```
 AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it simple and cost-effective to categorize your data, clean it, enrich it and move it reliably between various data stores
 ```
+When do you use aws glue  ?
+```
+- to build 
+```
