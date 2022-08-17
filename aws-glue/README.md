@@ -59,8 +59,9 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 ![](2022-08-17-12-28-46.png)
 
 
-## Data Store
+**Data Store**
 - A data store is a repository for persistentle storing your data the examples is AWS-S3 , and RDS
+
 
 ![](2022-08-17-11-46-19.png)
 
