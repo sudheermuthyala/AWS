@@ -21,4 +21,5 @@ what is aws glue benefits ?
 ```
 ![](2022-08-17-11-09-49.png)
 
+
 ```
