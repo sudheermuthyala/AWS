@@ -25,7 +25,7 @@ what is aws glue benefits ?
 **CostEffective**
 - AWS-Glue is server less there is no infrastructure to manage
 - AWS-Glue handiles provisining configuration and scaling of the resources required to rune the ETL Jobs are fullle managed scaled apaches part envenorment
-    - You pay only for the resources that you use while your jobs are running 
+- You pay only for the resources that you use while your jobs are running 
 **More Power:**
 - AWS-Glue Automate the much of the efort in building,maintaining,and running ETL jobs.
 - It crops your data sources identifyesdatsa formate  as suggest schemas and transformations
