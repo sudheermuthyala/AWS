@@ -26,7 +26,7 @@ CostEffective
     - AWS-Glue handiles provisining configuration and scaling of the resources required to rune the ETL Jobs are fullle managed scaled apaches part envenorment
     - You pay only for the resources that you use while your jobs are running 
 More Power:
-    - AWS-Glue 
+    - AWS-Glue Automate
 
 ![](2022-08-17-11-09-49.png)
 
