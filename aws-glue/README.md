@@ -17,3 +17,7 @@ When do you use aws glue  ?
 - you can also load data from disparate sources into data warehouse for regular reporting and analysis.
 - By storing in to a data warehouse you can integrate information from different parts of your buisenes and provide a common source of data for decission making 
 ```
+what is aws glue benefits ?
+```
+
+```
