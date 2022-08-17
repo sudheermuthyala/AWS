@@ -27,9 +27,9 @@ what is aws glue benefits ?
 - AWS-Glue handiles provisining configuration and scaling of the resources required to rune the ETL Jobs are fullle managed scaled apaches part envenorment
     - You pay only for the resources that you use while your jobs are running 
 **More Power:**
-    - AWS-Glue Automate the much of the efort in building,maintaining,and running ETL jobs.
-    - It crops your data sources identifyesdatsa formate  as suggest schemas and transformations
-    - AWS Glue automaticaly genarates the code to execute your data transformation and loading processes
+- AWS-Glue Automate the much of the efort in building,maintaining,and running ETL jobs.
+- It crops your data sources identifyesdatsa formate  as suggest schemas and transformations
+- AWS Glue automaticaly genarates the code to execute your data transformation and loading processes
 
 ![](2022-08-17-11-09-49.png)
 
