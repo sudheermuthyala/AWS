@@ -63,7 +63,7 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 - A data store is a repository for persistentle storing your data the examples is AWS-S3 , and RDS
 **Data Source**
 - A data source is target data store that is used as an input  to process or transform
-**Data Ta**
+**Data Target**
 
 ![](2022-08-17-11-46-19.png)
 
