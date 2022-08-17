@@ -6,3 +6,7 @@
 - aws glue terminology ?
 - How does aws glue works ?
 
+what is AWS GLUE ?
+```
+AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it simple and cost-effective to cate
+```
