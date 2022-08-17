@@ -28,6 +28,7 @@ CostEffective
 More Power:
     - AWS-Glue Automate the much of the efort in building,maintaining,and running ETL jobs.
     - It crops your data sources identifyesdatsa formate  as suggest schemas and transformations
+    - AWS Glue automaticaly genarates the code to execur
 
 ![](2022-08-17-11-09-49.png)
 
