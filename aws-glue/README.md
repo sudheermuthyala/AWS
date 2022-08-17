@@ -71,3 +71,4 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 - A job is nothing but a Busieness logic which is required to perform the ETL work it composed of a transformation script data sources and data targets
 ![](2022-08-17-11-46-19.png)
 
+![](2022-08-17-12-40-41.png)
