@@ -72,3 +72,5 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 ![](2022-08-17-11-46-19.png)
 
 ![](2022-08-17-12-40-41.png)
+
+Exporting data from RDS to S3 using AWS Glue
