@@ -37,4 +37,4 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 
 
 ## AWS-Glue concepts
-
+![](2022-08-17-11-45-00.png)
