@@ -19,5 +19,6 @@ When do you use aws glue  ?
 ```
 what is aws glue benefits ?
 ```
+![](2022-08-17-11-09-49.png)
 
 ```
