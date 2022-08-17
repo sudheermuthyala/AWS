@@ -66,6 +66,6 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 **Data Target** 
 - A data target is a data store that process transform writes to
 **Development Endpoint**
-- Development end point is an envernoment that you can use to 
+- Development end point is an envernoment that you can use to develop and test your AWS-Glue ETL scripts
 ![](2022-08-17-11-46-19.png)
 
