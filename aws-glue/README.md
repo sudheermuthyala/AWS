@@ -56,6 +56,9 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 - Database is a set of associated data calatogue table definations  orginised in to logical group in aws group
 
 
+![](2022-08-17-12-28-46.png)
 
+
+Data
 ![](2022-08-17-11-46-19.png)
 
