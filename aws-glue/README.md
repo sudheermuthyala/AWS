@@ -20,7 +20,8 @@ When do you use aws glue  ?
 what is aws glue benefits ?
 Less Hassle
     - AWS-Glue is integrated with across wide range of aws-services 
-    - AWS-Glue Nativele supports Data store aws aurora,and other RDS-engines,AWS-Redshift,AWS-S3 and along with common database engines and data bases in virtual private cloud(vpc)
+    - AWS-Glue Nativele supports Data store aws aurora,and other RDS-engines,AWS-Redshift,AWS-S3 and along with common database engines and data bases in virtual private cloud(vpc), Running on Amazon Ec2-Instances
+CostEffective
 
 ![](2022-08-17-11-09-49.png)
 
