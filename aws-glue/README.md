@@ -68,6 +68,6 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 **Development Endpoint**
 - Development end point is an envernoment that you can use to develop and test your AWS-Glue ETL scripts
 **Job**
-- A job is nothing but a Busieness logic which is required to perform the ETL work it composed of a transformation script
+- A job is nothing but a Busieness logic which is required to perform the ETL work it composed of a transformation script data sources and data targets
 ![](2022-08-17-11-46-19.png)
 
