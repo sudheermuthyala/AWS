@@ -43,7 +43,7 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 **Data Catalog:** 
 - Data catalog is nothing but persistent metadata store in AWS-Glue It contains table definations job definations other controle information to manage your AWS-Glue envinorment
 - Each Aws account has one Data Catalog for region 
-**Classi**
+**Classifier**
 
 
 ![](2022-08-17-11-46-19.png)
