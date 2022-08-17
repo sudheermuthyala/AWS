@@ -51,7 +51,7 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 - Connection containg the properties that are require to connect to your data store   
 **Crawler**
 - crawler is nothing but a program that connects to a data store May be a source or in target progresses through priorities list of classifiers to determing the schema for the data
-- Then it creates meta
+- Then it creates meta data tables  
 
 
 
