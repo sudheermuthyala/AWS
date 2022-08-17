@@ -12,5 +12,5 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 ```
 When do you use aws glue  ?
 ```
-- To build a Data warehouse to organize,cleanse,validate,and formate data. you can transform and move aws cloud data in to a data store.you can also load data from disparate sources into data warehouse for regular reporting and analysis. by storing in to a data warehouse you can integrate 
+- To build a Data warehouse to organize,cleanse,validate,and formate data. you can transform and move aws cloud data in to a data store.you can also load data from disparate sources into data warehouse for regular reporting and analysis. by storing in to a data warehouse you can integrate information from different parts of 
 ```
