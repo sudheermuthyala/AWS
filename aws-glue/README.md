@@ -64,7 +64,7 @@ AWS Glue is fully Managed ETL(Extra Transform,and Load) service that makes it si
 **Data Source**
 - A data source is target data store that is used as an input  to process or transform
 **Data Target** 
-- A data target is a data store that process  transform writes 
-
+- A data target is a data store that process transform writes to
+-
 ![](2022-08-17-11-46-19.png)
 
