@@ -5,4 +5,5 @@
 - Craete Subnets Public/private on Different AZ
     - `Enable auto-assign public IPv4 address`
 - Create Routing Table and Add routs Towords IGW
+    - Sub
 - create SG group
