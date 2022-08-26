@@ -11,4 +11,4 @@ Rules for Vpc Peering:
 251
 
 ## PEERING
-- 
+**Step-1** create preeing connection 
