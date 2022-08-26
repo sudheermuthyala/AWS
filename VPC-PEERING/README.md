@@ -4,4 +4,5 @@ Rules for Vpc Peering:
 
 - VPC Peering can be done Between in Same account and  same region 
 - VPC Peering can be done Between in Same account and different region 
-- VPC Peering can be done Between in different account and different region 
+- VPC Peering can be done Between in different account and different region
+- VPC Peering can be done Between in Same account and different region  
