@@ -10,7 +10,7 @@ Rules for Vpc Peering:
 254
 251
 
-## PEERING
+## PEERING can be done Between in Same account and  same region 
 **Step-1** create preeing connection 
 # Preeing connections settings 
 - Name : AWSD40-DEV-VPC-EC2-Instance to AWSD40-DEV-VPC-EC2-Instance (or vise versa)
