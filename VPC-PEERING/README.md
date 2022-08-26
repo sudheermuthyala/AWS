@@ -3,4 +3,4 @@ Rules for Vpc Peering:
 - VPC Peering DOnt Support Transit 
 
 - VPC Peering can be done Between in Same account and  same region 
-- VPC Peering can be 
+- VPC Peering can be done 
