@@ -16,7 +16,7 @@ Rules for Vpc Peering:
 - Name : AWSD40-DEV-VPC-EC2-Instance to AWSD40-DEV-VPC-EC2-Instance (or vise versa)
 - Select a local VPC to peer with 
     - VPC-ID (Requester)
-    -
+        -  Select VPC
 - Select the another to Peer with
     - Account
         - My Account (Select My account)
