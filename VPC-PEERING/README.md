@@ -25,4 +25,4 @@ Rules for Vpc Peering:
         - This Region(us-east-1)
         - Another Region 
     - VPC-ID (Accepter)
-        - 
+        -  Select VPC
