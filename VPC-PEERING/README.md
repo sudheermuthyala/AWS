@@ -12,3 +12,5 @@ Rules for Vpc Peering:
 
 ## PEERING
 **Step-1** create preeing connection 
+# Preeing connections settings 
+- Name
