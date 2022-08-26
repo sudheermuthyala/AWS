@@ -13,5 +13,5 @@ Rules for Vpc Peering:
 ## PEERING
 **Step-1** create preeing connection 
 # Preeing connections settings 
-- Name : AWSD40-DEV-VPC-EC2-Instance to 
-- Select a local VPC to peer with VPC-ID
+- Name : AWSD40-DEV-VPC-EC2-Instance to AWSD40-DEV-VPC-EC2-Instance (or vise versa)
+- Select a local VPC to peer with VPC-ID : 
