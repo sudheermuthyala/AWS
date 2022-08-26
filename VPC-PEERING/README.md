@@ -14,3 +14,4 @@ Rules for Vpc Peering:
 **Step-1** create preeing connection 
 # Preeing connections settings 
 - Name
+- Select a local VPC to peer with VPC-ID
