@@ -1,2 +1,3 @@
 Rules for Vpc Peering:
-- VPC's thats are taking 
+- VPC's thats are taking part of Peering Must not have identical CIDR Ranges
+- 
