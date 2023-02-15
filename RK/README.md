@@ -11,7 +11,7 @@
     </p>
 
 ### What we are Automating 
-<p align="center">
+- <p align="center">
   <img src="https://github.com/sudheermuthyala/AWS/blob/main/RK/i/2023-02-15-22-00-38.png" />
     </p>
 
