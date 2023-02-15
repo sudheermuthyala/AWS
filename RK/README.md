@@ -1,2 +1,2 @@
 ### Networking commands
-- nslookup 
+- nslookup sample.roboshop.internal
