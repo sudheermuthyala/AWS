@@ -2,4 +2,4 @@
 - nslookup sample.roboshop.internal
 - dig sample.roboshop.internal
 - host sample.roboshop.internal 
-### DNS Register
+### DNS Registered At sudheermuthyalaaz00@gmail.com
