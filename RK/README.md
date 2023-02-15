@@ -1,4 +1,4 @@
 ### Networking commands
 - nslookup sample.roboshop.internal
 - dig sample.roboshop.internal
-- host 
+- host sample.roboshop.internal 
