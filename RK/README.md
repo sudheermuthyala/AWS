@@ -5,4 +5,4 @@
 ### DNS Registered At sudheermuthyalaaz00@gmail.com
 - liveswithdevops.online
 
-### How 
+### How DNS Name Servers is 
