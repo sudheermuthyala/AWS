@@ -5,4 +5,4 @@
 ### DNS Registered At sudheermuthyalaaz00@gmail.com
 - liveswithdevops.online
 
-### How DNS Name Servers is transfer the 
+### How DNS Name Servers is transfer the owner ship
